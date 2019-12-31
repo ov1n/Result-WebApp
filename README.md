@@ -1,2 +1,2 @@
 # Result-WebApp
-result generating we application
+result generating web application 
